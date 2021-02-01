@@ -1,12 +1,71 @@
 .con-size{
-    height: 720px;
+    height: 750px;
+}
+.head-line{
+   /* color: #495BC3; */
+   color: #b6bfcd;
+   padding: 10px;
+}
+.bg-color{
+    background-color: #10101B;
+}
+.box-size{
+    height: 525px;
+    border-radius: 10px;
+    background-color: #222436;
+}
+.input-size{
+    height: 55px;
+    width: 370px;
+    color: white;
+    border: 2px solid #8a9ab1;
+    text-align: center;
+    background-color: #425062;
+    border-radius: 5px;
+  
 }
 .btn-style{
     background-color: #425062;
     color: white;
     font-size: 25px;
-    padding: 30px 50px;
+    padding: 15px 40px;
     border-radius: 15px;
     border: none;
     margin: 5px;
+}
+
+.press-btn{
+    background-color: #495BC3;
+    border: none;
+    color: white;
+    font-size: 15px;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+}
+.generate-btn{
+    color: white;
+    background-color: #495BC3;
+    border: 8px solid #39458C;
+    border-radius: 50%;
+    height: 185px;
+    width: 185px;
+    font-size: 20px;
+
+}
+.notify{
+    text-align: center;
+    color: #fff;
+    border-radius: 15px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 5px 20px;
+    text-align: center;
+    background-color: #425062;
+}
+#notify-cross{
+    display: none;
+}
+#notify-right{
+    display: none;
 }
