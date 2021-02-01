@@ -1,0 +1,12 @@
+.con-size{
+    height: 720px;
+}
+.btn-style{
+    background-color: #425062;
+    color: white;
+    font-size: 25px;
+    padding: 30px 50px;
+    border-radius: 15px;
+    border: none;
+    margin: 5px;
+}
